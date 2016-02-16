@@ -13,7 +13,7 @@ To use this phrase, you need to change some values in above source code
 
 
 ## Description
- * send email in Windows Powershell: [link](http://www.howtogeek.com/120011/stupid-geek-tricks-how-to-send-email-from-the-command-line-in-windows-without-extra-software/)
+ * [Send email in Windows Powershell](http://www.howtogeek.com/120011/stupid-geek-tricks-how-to-send-email-from-the-command-line-in-windows-without-extra-software/)
  * Compatible with Windows 
 
 
