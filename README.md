@@ -1,2 +1,2 @@
 # PhraseExpress
-Repository for useful functions and phases in PhraseExpress
+A Repository for useful functions and phases of PhraseExpress
