@@ -9,7 +9,7 @@ To use this phrase, you need to change some values in above source code
 
 # Description
  * Windows Powershell code to send GMail: [link](http://www.howtogeek.com/120011/stupid-geek-tricks-how-to-send-email-from-the-command-line-in-windows-without-extra-software/)
- * Comparable OS: Windows 
+ * Compatible OS: Windows 
 
 
 # Usages
