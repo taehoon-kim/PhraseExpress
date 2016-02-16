@@ -1,2 +1,2 @@
 # PhraseExpress
-Distribution repository for useful functions and phases in PhraseExpress
+Repository for useful functions and phases in PhraseExpress
