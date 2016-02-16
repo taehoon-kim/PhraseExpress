@@ -8,7 +8,7 @@ To use this phrase, you need to change some values in above source code
  * ...NetworkCredential('YOUR_GMAIL_ADDRESS@gmail.com', 'YOUR_GMAIL_PASSWORD')...: replace with your GMail account's email address and password
 
 # Description
- * Windows Powershell code to send GMail for Windows: [link](http://www.howtogeek.com/120011/stupid-geek-tricks-how-to-send-email-from-the-command-line-in-windows-without-extra-software/)
+ * Windows Powershell code to send GMail: [link](http://www.howtogeek.com/120011/stupid-geek-tricks-how-to-send-email-from-the-command-line-in-windows-without-extra-software/)
  * Comparable OS: Windows 
 
 
