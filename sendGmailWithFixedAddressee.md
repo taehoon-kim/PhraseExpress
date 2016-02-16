@@ -12,9 +12,9 @@ To use this phrase, you need to change some values in above source code
  * Comparable OS: Windows 
 
 
-# Licenses
- * GPLv3
-
 # Usages
  * Add a new task into your [Omnifocus](https://www.omnigroup.com/omnifocus/) inbox via Email
  
+
+# License
+ * GPLv3
