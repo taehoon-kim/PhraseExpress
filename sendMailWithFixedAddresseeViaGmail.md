@@ -8,7 +8,7 @@
 To use this phrase, you need to change some values in above source code
  * `$EmailFrom = 'YOUR_GMAIL_ADDRESS@gmail.com'`: replace with your GMail address
  * `$EmailTo = 'ADDRESSEE-EMAIL-ADDRESS@example.com'`: replace with addressee's email address
- * `...NetworkCredential('YOUR_GMAIL_ADDRESS@gmail.com', 'YOUR_GMAIL_PASSWORD')...`: replace with your GMail account's email address and password
+ * `...NetworkCredential('YOUR_GMAIL_ADDRESS@gmail.com', 'YOUR_GMAIL_PASSWORD')...`: replace with your GMail login credentials
 * One can also use other SMTP mail server by changing `$SMTPServer = 'smtp.gmail.com'`.
 
 
