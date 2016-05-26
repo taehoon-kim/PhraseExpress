@@ -20,6 +20,3 @@ To use this phrase, you need to change some values in above source code
 ## Usages
  * Add a new task into your [Omnifocus](https://www.omnigroup.com/omnifocus/), [Asana](https://app.asana.com/), etc. via Email
  
-
-## License
- * GPLv3
